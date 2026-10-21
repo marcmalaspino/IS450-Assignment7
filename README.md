@@ -2,9 +2,9 @@
 Assignment 7 for BAN 701
 
 ## Description
-Project: Assignment 7 - Make a GitHub Commit
-Name: Marc Malaspino
-GitHub Username: marcmalaspino
+ - Project: Assignment 7 - Make a GitHub Commit
+ - Name: Marc Malaspino
+ - GitHub Username: marcmalaspino
 
 This is a simple text-based Trick or Treat program. It asks for user input (y/n) and outputs either a trick or a treat. It also keeps a running total of what items are in your bag
 
@@ -37,6 +37,7 @@ This is a simple text-based Trick or Treat program. It asks for user input (y/n)
 3. Follow the prompts in the terminal
 
 ### Example Display
+```
 Would you like to knock on the door? (y/n)
 y
 Treat! You got a candy corn.
@@ -53,4 +54,4 @@ Thanks for playing! Here's what's in your bag:
   rock: 1
 Total Treats: 1
 Total Tricks: 1
-
+```
